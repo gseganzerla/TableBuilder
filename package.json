@@ -1,0 +1,10 @@
+{
+  "name": "tablebuilder",
+  "version": "0.0.1",
+  "description": "A beautify and expressive builder for DataTables with Jquery ",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "gseganzerla",
+  "license": "MIT"
+}
